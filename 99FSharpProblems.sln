@@ -13,6 +13,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_4_FindListLength", 
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_5_ReverseList", "Problem_5_ReverseList\Problem_5_ReverseList.fsproj", "{31B79315-DAF8-4DB7-AEC4-CF7DE11D25CD}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_6_IsPalindrome", "Problem_6_IsPalindrome\Problem_6_IsPalindrome.fsproj", "{4B884DD3-D68E-4757-B758-43138D9C7214}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{31B79315-DAF8-4DB7-AEC4-CF7DE11D25CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31B79315-DAF8-4DB7-AEC4-CF7DE11D25CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31B79315-DAF8-4DB7-AEC4-CF7DE11D25CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B884DD3-D68E-4757-B758-43138D9C7214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B884DD3-D68E-4757-B758-43138D9C7214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B884DD3-D68E-4757-B758-43138D9C7214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B884DD3-D68E-4757-B758-43138D9C7214}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
