@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_1_LastElList", "Problem_1_LastElList\Problem_1_LastElList.fsproj", "{E45B2CDB-D24E-43F8-A089-5E93379EFCD6}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_1_LastElList", "Problem_1_LastElList\Problem_1_LastElList.fsproj", "{E45B2CDB-D24E-43F8-A089-5E93379EFCD6}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_2_PreLastElList", "Problem_2_PreLastElList\Problem_2_PreLastElList.fsproj", "{0CF4EBA3-8DD1-452B-847D-ECAB57C4AE99}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_2_PreLastElList", "Problem_2_PreLastElList\Problem_2_PreLastElList.fsproj", "{0CF4EBA3-8DD1-452B-847D-ECAB57C4AE99}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_3_ElemAtList", "Problem_3_ElemAtList\Problem_3_ElemAtList.fsproj", "{28488BDC-B6E8-4D74-AAC7-C935ADEFEC55}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_3_ElemAtList", "Problem_3_ElemAtList\Problem_3_ElemAtList.fsproj", "{28488BDC-B6E8-4D74-AAC7-C935ADEFEC55}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_4_FindListLength", "Problem_4_FindListLength\Problem_4_FindListLength.fsproj", "{2BC0D698-E13B-4C97-8957-95ADB540705A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{28488BDC-B6E8-4D74-AAC7-C935ADEFEC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28488BDC-B6E8-4D74-AAC7-C935ADEFEC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28488BDC-B6E8-4D74-AAC7-C935ADEFEC55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BC0D698-E13B-4C97-8957-95ADB540705A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC0D698-E13B-4C97-8957-95ADB540705A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC0D698-E13B-4C97-8957-95ADB540705A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC0D698-E13B-4C97-8957-95ADB540705A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
