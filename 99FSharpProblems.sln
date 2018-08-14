@@ -9,11 +9,13 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_2_PreLastElList", "
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_3_ElemAtList", "Problem_3_ElemAtList\Problem_3_ElemAtList.fsproj", "{28488BDC-B6E8-4D74-AAC7-C935ADEFEC55}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_4_FindListLength", "Problem_4_FindListLength\Problem_4_FindListLength.fsproj", "{2BC0D698-E13B-4C97-8957-95ADB540705A}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_4_FindListLength", "Problem_4_FindListLength\Problem_4_FindListLength.fsproj", "{2BC0D698-E13B-4C97-8957-95ADB540705A}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_5_ReverseList", "Problem_5_ReverseList\Problem_5_ReverseList.fsproj", "{31B79315-DAF8-4DB7-AEC4-CF7DE11D25CD}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_5_ReverseList", "Problem_5_ReverseList\Problem_5_ReverseList.fsproj", "{31B79315-DAF8-4DB7-AEC4-CF7DE11D25CD}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_6_IsPalindrome", "Problem_6_IsPalindrome\Problem_6_IsPalindrome.fsproj", "{4B884DD3-D68E-4757-B758-43138D9C7214}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_6_IsPalindrome", "Problem_6_IsPalindrome\Problem_6_IsPalindrome.fsproj", "{4B884DD3-D68E-4757-B758-43138D9C7214}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_7_FlattenNestedList", "Problem_7_FlattenNestedList\Problem_7_FlattenNestedList.fsproj", "{70AF1914-800A-46FB-A5E1-0EFC7A09AEF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{4B884DD3-D68E-4757-B758-43138D9C7214}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B884DD3-D68E-4757-B758-43138D9C7214}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B884DD3-D68E-4757-B758-43138D9C7214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70AF1914-800A-46FB-A5E1-0EFC7A09AEF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70AF1914-800A-46FB-A5E1-0EFC7A09AEF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70AF1914-800A-46FB-A5E1-0EFC7A09AEF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70AF1914-800A-46FB-A5E1-0EFC7A09AEF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
