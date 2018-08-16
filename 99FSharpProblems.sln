@@ -19,6 +19,8 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_7_FlattenNestedList
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_8_EliminateDuplicates", "Problem_8_EliminateDuplicates\Problem_8_EliminateDuplicates.fsproj", "{92393ACD-7BA1-4AD1-9B8E-F046B1875924}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_9_PackSublist", "Problem_9_PackSublist\Problem_9_PackSublist.fsproj", "{E2478FA7-54CC-4E2D-8BAA-1298F11FD624}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{92393ACD-7BA1-4AD1-9B8E-F046B1875924}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92393ACD-7BA1-4AD1-9B8E-F046B1875924}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92393ACD-7BA1-4AD1-9B8E-F046B1875924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2478FA7-54CC-4E2D-8BAA-1298F11FD624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2478FA7-54CC-4E2D-8BAA-1298F11FD624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2478FA7-54CC-4E2D-8BAA-1298F11FD624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2478FA7-54CC-4E2D-8BAA-1298F11FD624}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
