@@ -17,11 +17,15 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_06_IsPalindrome", "
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_07_FlattenNestedList", "Problem_07_FlattenNestedList\Problem_07_FlattenNestedList.fsproj", "{70AF1914-800A-46FB-A5E1-0EFC7A09AEF1}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_08_EliminateDuplicates", "Problem_08_EliminateDuplicates\Problem_08_EliminateDuplicates.fsproj", "{92393ACD-7BA1-4AD1-9B8E-F046B1875924}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_08_EliminateDuplicates", "Problem_08_EliminateDuplicates\Problem_08_EliminateDuplicates.fsproj", "{92393ACD-7BA1-4AD1-9B8E-F046B1875924}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_09_PackSublist", "Problem_09_PackSublist\Problem_09_PackSublist.fsproj", "{E2478FA7-54CC-4E2D-8BAA-1298F11FD624}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_09_PackSublist", "Problem_09_PackSublist\Problem_09_PackSublist.fsproj", "{E2478FA7-54CC-4E2D-8BAA-1298F11FD624}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_10_CountSublist", "Problem_10_CountSublist\Problem_10_CountSublist.fsproj", "{F0AFE277-390F-42E2-8126-55629F6818F8}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_10_CountSublist", "Problem_10_CountSublist\Problem_10_CountSublist.fsproj", "{F0AFE277-390F-42E2-8126-55629F6818F8}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_11_LengthEncoding", "Problem_11_LengthEncoding\Problem_11_LengthEncoding.fsproj", "{A2448BFA-C844-434A-A175-607208E08BFF}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_12_LengthDecoding", "Problem_12_LengthDecoding\Problem_12_LengthDecoding.fsproj", "{ED390DC3-778A-4D40-9D13-05CF7CC68133}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{F0AFE277-390F-42E2-8126-55629F6818F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0AFE277-390F-42E2-8126-55629F6818F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0AFE277-390F-42E2-8126-55629F6818F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2448BFA-C844-434A-A175-607208E08BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2448BFA-C844-434A-A175-607208E08BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2448BFA-C844-434A-A175-607208E08BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2448BFA-C844-434A-A175-607208E08BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED390DC3-778A-4D40-9D13-05CF7CC68133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED390DC3-778A-4D40-9D13-05CF7CC68133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED390DC3-778A-4D40-9D13-05CF7CC68133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED390DC3-778A-4D40-9D13-05CF7CC68133}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
