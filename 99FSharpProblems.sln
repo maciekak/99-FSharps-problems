@@ -35,6 +35,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_15_ReplicateElemsNr
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_16_DropNthListElem", "Problem_16_DropNthListElem\Problem_16_DropNthListElem.fsproj", "{5246A326-9F7F-40C3-9E5D-DE19B99122B9}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_17_SplitList", "Problem_17_SplitList\Problem_17_SplitList.fsproj", "{4D14A2B6-21BC-4069-99E3-DD92C24FA5D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{5246A326-9F7F-40C3-9E5D-DE19B99122B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5246A326-9F7F-40C3-9E5D-DE19B99122B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5246A326-9F7F-40C3-9E5D-DE19B99122B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D14A2B6-21BC-4069-99E3-DD92C24FA5D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D14A2B6-21BC-4069-99E3-DD92C24FA5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D14A2B6-21BC-4069-99E3-DD92C24FA5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D14A2B6-21BC-4069-99E3-DD92C24FA5D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
