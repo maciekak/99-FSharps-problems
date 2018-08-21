@@ -39,6 +39,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_17_SplitList", "Pro
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_18_ExtractSliceOfList", "Problem_18_ExtractSliceOfList\Problem_18_ExtractSliceOfList.fsproj", "{3841626D-5166-4286-8A46-7CF1E4EA7259}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_20_RemoveKElemOfList", "Problem_20_RemoveKElemOfList\Problem_20_RemoveKElemOfList.fsproj", "{3742E348-E1C7-45B6-8694-E6385ABA8EC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{3841626D-5166-4286-8A46-7CF1E4EA7259}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3841626D-5166-4286-8A46-7CF1E4EA7259}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3841626D-5166-4286-8A46-7CF1E4EA7259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3742E348-E1C7-45B6-8694-E6385ABA8EC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3742E348-E1C7-45B6-8694-E6385ABA8EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3742E348-E1C7-45B6-8694-E6385ABA8EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3742E348-E1C7-45B6-8694-E6385ABA8EC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
