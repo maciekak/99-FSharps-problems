@@ -51,6 +51,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_23_RandomElemsFromL
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_24_NDiffrentRandomNumbers", "Problem_24_NDiffrentRandomNumbers\Problem_24_NDiffrentRandomNumbers.fsproj", "{3183022E-24F2-4EA9-880E-13F9B9DB7379}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_25_RandomPermutation", "Problem_25_RandomPermutation\Problem_25_RandomPermutation.fsproj", "{FFD1D988-104E-41E7-AB8E-E3BB09A979DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{3183022E-24F2-4EA9-880E-13F9B9DB7379}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3183022E-24F2-4EA9-880E-13F9B9DB7379}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3183022E-24F2-4EA9-880E-13F9B9DB7379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFD1D988-104E-41E7-AB8E-E3BB09A979DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD1D988-104E-41E7-AB8E-E3BB09A979DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD1D988-104E-41E7-AB8E-E3BB09A979DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD1D988-104E-41E7-AB8E-E3BB09A979DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
