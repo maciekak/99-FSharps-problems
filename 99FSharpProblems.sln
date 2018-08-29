@@ -43,9 +43,11 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_20_RemoveKElemOfLis
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_19_RotateElemOnList", "Problem_19_RotateElemOnList\Problem_19_RotateElemOnList.fsproj", "{B483671F-2A47-4F8A-9D9D-47B27973D744}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_21_InsertAt", "Problem_21_InsertAt\Problem_21_InsertAt.fsproj", "{5CCAD3A6-4080-462A-9C51-42B6ABAF9848}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_21_InsertAt", "Problem_21_InsertAt\Problem_21_InsertAt.fsproj", "{5CCAD3A6-4080-462A-9C51-42B6ABAF9848}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_22_ListAtRange", "Problem_22_ListAtRange\Problem_22_ListAtRange.fsproj", "{6AD31C47-3CC4-4BA7-9FC0-A29A42C6630F}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_22_ListAtRange", "Problem_22_ListAtRange\Problem_22_ListAtRange.fsproj", "{6AD31C47-3CC4-4BA7-9FC0-A29A42C6630F}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_23_RandomElemsFromList", "Problem_23_RandomElemsFromList\Problem_23_RandomElemsFromList.fsproj", "{3E0F9F84-8A5C-47A2-A55E-C460D584E6D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{6AD31C47-3CC4-4BA7-9FC0-A29A42C6630F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AD31C47-3CC4-4BA7-9FC0-A29A42C6630F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AD31C47-3CC4-4BA7-9FC0-A29A42C6630F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E0F9F84-8A5C-47A2-A55E-C460D584E6D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0F9F84-8A5C-47A2-A55E-C460D584E6D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0F9F84-8A5C-47A2-A55E-C460D584E6D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0F9F84-8A5C-47A2-A55E-C460D584E6D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
