@@ -18,14 +18,20 @@ let rec permutation lst =
         match (lt, ind) with
         | ((a :: ax), i) when i < 0 -> match (getElemAt ax ind) with
                                        | (fst, scd) -> (fst, a :: scd)
-        | ((a :: ax), i) when i = 0 -> (a, getElemAt ax (-1))
-        | ((a :: ax), i) -> match (getElementAt ax (i-1)) with
+        | ((a :: ax), i) when i = 0 -> 
+            match (getElemAt ax (-1)) with
+            | (fst, scd) -> (a, scd)
+        | ((a :: ax), i) -> match (getElemAt ax (i-1)) with
                                        | (fst, scd) -> (fst, a :: scd)
         | _ -> (0, [])
-    let rec generate acc currLen =
+    let rec generate currLen srcLst =
         match currLen with
-        | curr when curr = len -> acc
+        | curr when curr = len -> []
         | _ -> 
+            match (getElemAt srcLst (rnd.Next(len - currLen))) with
+            | (fst, scd) -> fst :: (generate (currLen + 1) scd)
+
+    generate 0 lst
 
 
 [<EntryPoint>]
