@@ -59,6 +59,8 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_27_GroupIntoDisjoin
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_31_IsPrime", "Problem_31_IsPrime\Problem_31_IsPrime.fsproj", "{89EA1F98-2C98-440B-A12C-8DDD1562C9B4}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_32_GreatestCommonDivisor", "Problem_32_GreatestCommonDivisor\Problem_32_GreatestCommonDivisor.fsproj", "{ED030A67-5D21-48F0-A290-A2565E1E601B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{89EA1F98-2C98-440B-A12C-8DDD1562C9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89EA1F98-2C98-440B-A12C-8DDD1562C9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89EA1F98-2C98-440B-A12C-8DDD1562C9B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED030A67-5D21-48F0-A290-A2565E1E601B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED030A67-5D21-48F0-A290-A2565E1E601B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED030A67-5D21-48F0-A290-A2565E1E601B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED030A67-5D21-48F0-A290-A2565E1E601B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
