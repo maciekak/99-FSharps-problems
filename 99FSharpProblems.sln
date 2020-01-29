@@ -55,7 +55,9 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_25_RandomPermutatio
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_26_CombinationKFromN", "Problem_26_CombinationKFromN\Problem_26_CombinationKFromN.fsproj", "{540BBCDB-8723-45E9-A053-6855907BEB82}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_27_GroupIntoDisjointSets", "Problem_27_GroupIntoDisjointSets\Problem_27_GroupIntoDisjointSets.fsproj", "{3BDE888D-1D8C-4891-A1AF-33B43994622C}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_27_GroupIntoDisjointSets", "Problem_27_GroupIntoDisjointSets\Problem_27_GroupIntoDisjointSets.fsproj", "{3BDE888D-1D8C-4891-A1AF-33B43994622C}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_31_IsPrime", "Problem_31_IsPrime\Problem_31_IsPrime.fsproj", "{89EA1F98-2C98-440B-A12C-8DDD1562C9B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{3BDE888D-1D8C-4891-A1AF-33B43994622C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BDE888D-1D8C-4891-A1AF-33B43994622C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BDE888D-1D8C-4891-A1AF-33B43994622C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89EA1F98-2C98-440B-A12C-8DDD1562C9B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EA1F98-2C98-440B-A12C-8DDD1562C9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EA1F98-2C98-440B-A12C-8DDD1562C9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EA1F98-2C98-440B-A12C-8DDD1562C9B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
