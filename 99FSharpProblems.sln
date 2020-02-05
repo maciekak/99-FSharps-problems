@@ -57,11 +57,13 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_26_CombinationKFrom
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_27_GroupIntoDisjointSets", "Problem_27_GroupIntoDisjointSets\Problem_27_GroupIntoDisjointSets.fsproj", "{3BDE888D-1D8C-4891-A1AF-33B43994622C}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_31_IsPrime", "Problem_31_IsPrime\Problem_31_IsPrime.fsproj", "{89EA1F98-2C98-440B-A12C-8DDD1562C9B4}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_31_IsPrime", "Problem_31_IsPrime\Problem_31_IsPrime.fsproj", "{89EA1F98-2C98-440B-A12C-8DDD1562C9B4}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_32_GreatestCommonDivisor", "Problem_32_GreatestCommonDivisor\Problem_32_GreatestCommonDivisor.fsproj", "{ED030A67-5D21-48F0-A290-A2565E1E601B}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_32_GreatestCommonDivisor", "Problem_32_GreatestCommonDivisor\Problem_32_GreatestCommonDivisor.fsproj", "{ED030A67-5D21-48F0-A290-A2565E1E601B}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_33_Coprime", "Problem_33_Coprime\Problem_33_Coprime.fsproj", "{65E0FA7D-C6FE-467E-9839-61B0832767F4}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_33_Coprime", "Problem_33_Coprime\Problem_33_Coprime.fsproj", "{65E0FA7D-C6FE-467E-9839-61B0832767F4}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_34_TotientPhi", "TotientPhi\Problem_34_TotientPhi.fsproj", "{F8DFD881-464B-49EF-8D20-0F4A72E361AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +191,10 @@ Global
 		{65E0FA7D-C6FE-467E-9839-61B0832767F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65E0FA7D-C6FE-467E-9839-61B0832767F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65E0FA7D-C6FE-467E-9839-61B0832767F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8DFD881-464B-49EF-8D20-0F4A72E361AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8DFD881-464B-49EF-8D20-0F4A72E361AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8DFD881-464B-49EF-8D20-0F4A72E361AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8DFD881-464B-49EF-8D20-0F4A72E361AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
