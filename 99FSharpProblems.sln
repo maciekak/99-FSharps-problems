@@ -65,6 +65,8 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_33_Coprime", "Probl
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_34_TotientPhi", "TotientPhi\Problem_34_TotientPhi.fsproj", "{F8DFD881-464B-49EF-8D20-0F4A72E361AC}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_35_PrimeFactors", "Problem_35_PrimeFactors\Problem_35_PrimeFactors.fsproj", "{D09CEC46-8C33-4B8B-9BD9-9FC487314C9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{F8DFD881-464B-49EF-8D20-0F4A72E361AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8DFD881-464B-49EF-8D20-0F4A72E361AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8DFD881-464B-49EF-8D20-0F4A72E361AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D09CEC46-8C33-4B8B-9BD9-9FC487314C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D09CEC46-8C33-4B8B-9BD9-9FC487314C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D09CEC46-8C33-4B8B-9BD9-9FC487314C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D09CEC46-8C33-4B8B-9BD9-9FC487314C9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
