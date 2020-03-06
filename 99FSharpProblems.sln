@@ -63,11 +63,13 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_32_GreatestCommonDi
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_33_Coprime", "Problem_33_Coprime\Problem_33_Coprime.fsproj", "{65E0FA7D-C6FE-467E-9839-61B0832767F4}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_34_TotientPhi", "TotientPhi\Problem_34_TotientPhi.fsproj", "{F8DFD881-464B-49EF-8D20-0F4A72E361AC}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_34_TotientPhi", "Problem_34_TotientPhi\Problem_34_TotientPhi.fsproj", "{F8DFD881-464B-49EF-8D20-0F4A72E361AC}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_35_PrimeFactors", "Problem_35_PrimeFactors\Problem_35_PrimeFactors.fsproj", "{D09CEC46-8C33-4B8B-9BD9-9FC487314C9B}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_35_PrimeFactors", "Problem_35_PrimeFactors\Problem_35_PrimeFactors.fsproj", "{D09CEC46-8C33-4B8B-9BD9-9FC487314C9B}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_36_GroupedPrimeFactors", "Problem_36_GroupedPrimeFactors\Problem_36_GroupedPrimeFactors.fsproj", "{64C1E4CB-807D-4013-A3F8-6E651994E96B}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_36_GroupedPrimeFactors", "Problem_36_GroupedPrimeFactors\Problem_36_GroupedPrimeFactors.fsproj", "{64C1E4CB-807D-4013-A3F8-6E651994E96B}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_37_TotientPhi", "Problem_37_TotientPhi\Problem_37_TotientPhi.fsproj", "{E7BAD48B-B0AE-4385-810F-EC5BE64ECD85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +209,10 @@ Global
 		{64C1E4CB-807D-4013-A3F8-6E651994E96B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64C1E4CB-807D-4013-A3F8-6E651994E96B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64C1E4CB-807D-4013-A3F8-6E651994E96B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7BAD48B-B0AE-4385-810F-EC5BE64ECD85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7BAD48B-B0AE-4385-810F-EC5BE64ECD85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7BAD48B-B0AE-4385-810F-EC5BE64ECD85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7BAD48B-B0AE-4385-810F-EC5BE64ECD85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
