@@ -77,6 +77,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_40_Goldbach", "Prob
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_41_GoldbachSeries", "Problem_41_GoldbachSeries\Problem_41_GoldbachSeries.fsproj", "{8699653B-3B60-4F71-A078-927CBA959DAF}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_46_BooleansOperators", "Problem_46_BooleansOperators\Problem_46_BooleansOperators.fsproj", "{9578EC09-B8F0-4A09-B7DD-001AAF808939}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{8699653B-3B60-4F71-A078-927CBA959DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8699653B-3B60-4F71-A078-927CBA959DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8699653B-3B60-4F71-A078-927CBA959DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9578EC09-B8F0-4A09-B7DD-001AAF808939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9578EC09-B8F0-4A09-B7DD-001AAF808939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9578EC09-B8F0-4A09-B7DD-001AAF808939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9578EC09-B8F0-4A09-B7DD-001AAF808939}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
