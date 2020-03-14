@@ -18,14 +18,23 @@ let eq' a b =
     a = b
 let impl' a b =
     not (a && not b)
-
+    
 let table (fn: bool -> bool -> bool) = 
     let products = List.ofSeq(seq {for x in [true; false] do for y in [true; false] -> (x, y)})
-
+    
     let rec all lst = 
         match lst with
         | [] -> []
         | (l :: lt) -> ((fst l, snd l, fn (fst l) (snd l)) :: all lt)
+    all products
+let table3 (fn: bool -> bool -> bool -> bool) = 
+    let products = List.ofSeq(seq {for x in [true; false] do for y in [true; false]  do for z in [true; false] -> (x, y, z)})
+    let rec all lst = 
+        match lst with
+        | [] -> []
+        | (l :: lt) -> 
+            let (a, b, c) = l
+            ((a, b, c, fn a b c) :: all lt)
     all products
 
 [<EntryPoint>]
@@ -39,6 +48,6 @@ let main argv =
     printfn "%b" (eq' true false)
     printfn "%b" (impl' false false)
 
-    printfn "%A" (table (fun a b -> impl' a (and' (not' a) (or' b (or' b (not' a))))))
+    printfn "%A" (table3 (fun a b c -> (and' a (or' b (and' c (and' a (and' b c)))))))
     Console.ReadKey() |> ignore
     0 // return an integer exit code

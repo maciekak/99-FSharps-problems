@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2047
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_01_LastElList", "Problem_01_LastElList\Problem_01_LastElList.fsproj", "{E45B2CDB-D24E-43F8-A089-5E93379EFCD6}"
 EndProject
@@ -73,11 +73,13 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_37_TotientPhi", "Pr
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_39_PrimesR", "Problem_39_PrimesR\Problem_39_PrimesR.fsproj", "{DC48C15A-7103-48C2-A5BC-90CBCCDA47A9}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_40_Goldbach", "Problem_40_Goldbach\Problem_40_Goldbach.fsproj", "{5426538C-E6A5-4FAE-8C2D-991087E73103}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_40_Goldbach", "Problem_40_Goldbach\Problem_40_Goldbach.fsproj", "{5426538C-E6A5-4FAE-8C2D-991087E73103}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_41_GoldbachSeries", "Problem_41_GoldbachSeries\Problem_41_GoldbachSeries.fsproj", "{8699653B-3B60-4F71-A078-927CBA959DAF}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_41_GoldbachSeries", "Problem_41_GoldbachSeries\Problem_41_GoldbachSeries.fsproj", "{8699653B-3B60-4F71-A078-927CBA959DAF}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_46_BooleansOperators", "Problem_46_BooleansOperators\Problem_46_BooleansOperators.fsproj", "{9578EC09-B8F0-4A09-B7DD-001AAF808939}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "Problem_46_BooleansOperators", "Problem_46_BooleansOperators\Problem_46_BooleansOperators.fsproj", "{9578EC09-B8F0-4A09-B7DD-001AAF808939}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Problem_48_TruthTable3", "Problem_48_TruthTable3\Problem_48_TruthTable3.fsproj", "{FFD42E07-0F40-4D0C-A7D4-58F90123D906}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -237,6 +239,10 @@ Global
 		{9578EC09-B8F0-4A09-B7DD-001AAF808939}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9578EC09-B8F0-4A09-B7DD-001AAF808939}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9578EC09-B8F0-4A09-B7DD-001AAF808939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFD42E07-0F40-4D0C-A7D4-58F90123D906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD42E07-0F40-4D0C-A7D4-58F90123D906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD42E07-0F40-4D0C-A7D4-58F90123D906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD42E07-0F40-4D0C-A7D4-58F90123D906}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
